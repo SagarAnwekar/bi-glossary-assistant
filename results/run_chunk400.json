@@ -1,0 +1,101 @@
+{
+ "summary": {
+  "chunk_size": 400,
+  "chunks": 10,
+  "retrieval_hit@3": "12/12",
+  "answer_keyword_match": "12/12",
+  "correct_refusals": "3/3"
+ },
+ "rows": [
+  [
+   "How is gross margin calculated?",
+   true,
+   true,
+   "Gross margin is calculated by subtracting the cost of goods sold from revenue and then dividing that result by revenue. The final figure is expressed as a percentage."
+  ],
+  [
+   "What does an NRR above 100 percent mean?",
+   true,
+   true,
+   "An NRR above 100 percent means that existing customers are generating more revenue over time, even without the addition of new sales."
+  ],
+  [
+   "What is the formula for customer churn rate?",
+   true,
+   true,
+   "The formula for customer churn rate is the number of customers lost in a period divided by the number of customers at the start of that period."
+  ],
+  [
+   "What does a rising DSO indicate?",
+   true,
+   true,
+   "A rising DSO indicates that cash is tied up in unpaid invoices."
+  ],
+  [
+   "Does EBITDA include capital spending?",
+   true,
+   true,
+   "No, EBITDA does not include capital spending. It is not the same as free cash flow because it ignores capital spending and working capital changes."
+  ],
+  [
+   "How is CAC computed?",
+   true,
+   true,
+   "CAC is computed by dividing the total sales and marketing spend in a period by the number of new customers won during that same period."
+  ],
+  [
+   "What LTV to CAC ratio is considered healthy?",
+   true,
+   true,
+   "A common health rule is an LTV to CAC ratio of at least 3."
+  ],
+  [
+   "Why compare YoY instead of month over month?",
+   true,
+   true,
+   "Comparing YoY instead of month over month removes seasonality from the data. This allows for a more accurate comparison by looking at the same period one year earlier."
+  ],
+  [
+   "How is working capital defined?",
+   true,
+   true,
+   "Working capital is defined as current assets minus current liabilities. It indicates a business's ability to cover its short-term obligations."
+  ],
+  [
+   "What is the difference between SCD Type 1 and Type 2?",
+   true,
+   true,
+   "SCD Type 2 keeps history by adding a new row with start and end dates whenever a dimension attribute changes. In contrast, SCD Type 1 overwrites the old value and does not keep any history."
+  ],
+  [
+   "Is DSO based on cash sales?",
+   true,
+   true,
+   "No, DSO is not based on cash sales. It uses credit sales only."
+  ],
+  [
+   "What does revenue churn weigh customers by?",
+   true,
+   true,
+   "Revenue churn weighs lost customers by their spend."
+  ],
+  [
+   "What is the current share price of Tesla?",
+   null,
+   true,
+   "I don't know based on the glossary."
+  ],
+  [
+   "Who invented the balance sheet?",
+   null,
+   true,
+   "I don't know based on the glossary."
+  ],
+  [
+   "What is the company's 2025 EBITDA figure?",
+   null,
+   true,
+   "I don't know based on the glossary."
+  ]
+ ]
+}

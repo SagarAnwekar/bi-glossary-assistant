@@ -1,0 +1,17 @@
+[
+{"q":"How is gross margin calculated?","src":"gross_margin","kw":["revenue","cost of goods"]},
+{"q":"What does an NRR above 100 percent mean?","src":"net_revenue_retention","kw":["existing customers"]},
+{"q":"What is the formula for customer churn rate?","src":"churn_rate","kw":["lost","start"]},
+{"q":"What does a rising DSO indicate?","src":"dso","kw":["cash"]},
+{"q":"Does EBITDA include capital spending?","src":"ebitda","kw":["ignore"]},
+{"q":"How is CAC computed?","src":"cac","kw":["spend","new customers"]},
+{"q":"What LTV to CAC ratio is considered healthy?","src":"ltv","kw":["3"]},
+{"q":"Why compare YoY instead of month over month?","src":"yoy_growth","kw":["seasonality"]},
+{"q":"How is working capital defined?","src":"working_capital","kw":["current assets","current liabilities"]},
+{"q":"What is the difference between SCD Type 1 and Type 2?","src":"scd_type2","kw":["history"]},
+{"q":"Is DSO based on cash sales?","src":"dso","kw":["credit"]},
+{"q":"What does revenue churn weigh customers by?","src":"churn_rate","kw":["spend"]},
+{"q":"What is the current share price of Tesla?","src":null,"kw":[]},
+{"q":"Who invented the balance sheet?","src":null,"kw":[]},
+{"q":"What is the company's 2025 EBITDA figure?","src":null,"kw":[]}
+]
